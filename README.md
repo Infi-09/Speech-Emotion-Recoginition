@@ -5,7 +5,7 @@
 * So why not have a emotion detector that will guage your emotions and in the future recommend you different things based on your mood. 
 This can be used by multiple industries to offer different services like marketing company suggesting you to buy products based on your emotions, automotive industry can detect the persons emotions and adjust the speed of autonomous cars as required to avoid any collisions etc.
 
-### Datasets:
+## Datasets:
 Made use of two different datasets:
 1. [RAVDESS](https://zenodo.org/record/1188976).
 This dataset includes around 1500 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised.<br>
