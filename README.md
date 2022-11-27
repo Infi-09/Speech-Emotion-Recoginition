@@ -11,6 +11,14 @@ Made use of two different datasets:
 This dataset includes around 1500 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised.<br>
 Each audio file is named in such a way that the 7th character is consistent with the different emotions that they represent.
 
+
+## Model and ffmpeg
+### ffmpeg
+Download ffmpeg and move ffmped folder to the projcet folder. [ffmpeg](https://ffmpeg.org/download.html)
+
+### Model
+The Pretrained Model is uploaded in the drive. [Model](https://drive.google.com/file/d/1UlJOSSe83QpxeicjsZOK0G3g0yKQKolG/view?usp=share_link)
+
 ## Audio files:
 Tested out the audio files by plotting out the waveform and a spectrogram to see the sample audio files.<br>
 **Waveform**
