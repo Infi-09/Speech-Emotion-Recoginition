@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Speech Recognition in Python</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/index.css') }}" />
+</head>
+<body style="background-color: lightgray;">
+<div id="speechContainer" style="border: 1px;">
+    <center><h1 style="font-size: 60px;">Speech Emotion Recognition</h1></center>
+    <center>
+        <h1>Upload Audio File</h1>
+        <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file"/>
+        <br>
+        <input type="submit" id="submitButton" value="Transcribe"/>
+    </form>
+    </center>
+</div>
+</body>
+</html>
