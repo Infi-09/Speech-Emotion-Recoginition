@@ -42,14 +42,5 @@ Building and tuning a model is a very time consuming process. The idea is to alw
 ![](images/model.png?raw=true)
 <br>
 
-## Training
-The Accuarcy and Loss with the RAVDESS dataste during the training part, 
-<br>
-![](images/training.png?raw=true)
-<br>
-
-## Flask Application UI
-![](images/interface.png?raw=true)
-
 ## Conclusion
 Building the model was a challenging task as it involved lot of trail and error methods, tuning etc. The model is very well trained to distinguish between male and female voices and it distinguishes with 100% accuracy. The model was tuned to detect emotions with more than 70% accuracy. Accuracy can be increased by including more audio files for training.
