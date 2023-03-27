@@ -6,10 +6,11 @@
 This can be used by multiple industries to offer different services like marketing company suggesting you to buy products based on your emotions, automotive industry can detect the persons emotions and adjust the speed of autonomous cars as required to avoid any collisions etc.
 
 ## Datasets:
-Made use of two different datasets:
-1. [RAVDESS](https://zenodo.org/record/1188976).
-This dataset includes around 1500 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised.<br>
-Each audio file is named in such a way that the 7th character is consistent with the different emotions that they represent.
+Kaggle is a platform that caters to data science enthusiasts and it contains a collection of datasets, including RAVDESS, CREMA, TESS, and SAVEE. These datasets are specifically designed for speech emotion recognition applications and are commonly used in research and development of SER systems.
+Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) 
+Crowd Sourced Emotional Multimodal Actors Dataset (CREMA)
+Toronto emotional speech set (TESS)
+Speech Emotion Annotated data for emotion recognition systems(SAVEE)
 
 
 ## Model and ffmpeg
