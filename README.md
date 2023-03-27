@@ -7,10 +7,10 @@ This can be used by multiple industries to offer different services like marketi
 
 ## Datasets:
 Kaggle is a platform that caters to data science enthusiasts and it contains a collection of datasets, including RAVDESS, CREMA, TESS, and SAVEE. These datasets are specifically designed for speech emotion recognition applications and are commonly used in research and development of SER systems.
-Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) 
-Crowd Sourced Emotional Multimodal Actors Dataset (CREMA)
-Toronto emotional speech set (TESS)
-Speech Emotion Annotated data for emotion recognition systems(SAVEE)
+  * Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) 
+  * Crowd Sourced Emotional Multimodal Actors Dataset (CREMA)
+  * Toronto emotional speech set (TESS)
+  * Speech Emotion Annotated data for emotion recognition systems(SAVEE)
 
 
 ## Model and ffmpeg
